@@ -1,4 +1,4 @@
-# 📘 **Figure Reproducibility: RNA, ATAC & CITE-seq Analysis for https://www.biorxiv.org/content/10.1101/2024.06.06.597775v2**
+# 📘 **RNA, ATAC & CITE-seq Analysis for https://www.biorxiv.org/content/10.1101/2024.06.06.597775v2**
 
 This repository contains Jupyter notebooks and reproducible scripts used to generate figures from our manuscript. 
 The study incorporates single-cell RNA-seq, ATAC-seq, and CITE-seq data from **mouse** and **human bone marrow**, highlighting distinct chromatin and epigenetic states during hematopoietic aging which dictate multilineage potential.
@@ -46,6 +46,10 @@ We integrated and analyzed multiple datasets to profile hematopoietic stem cells
 ---
 
 ## 📁 **Repository Structure**
+
+- **Notebook for RNA analysis**: RNA.ipynb
+
+- **Notebook for ATAC analysis**: ATAC.ipynb
 
 
 ---
