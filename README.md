@@ -18,13 +18,13 @@ We integrated and analyzed multiple datasets to profile hematopoietic stem cells
 
 ## 🔧 **Data Processing Pipelines**
 
-### 🧪 **RNA-seq (Mouse)**
+### 🐭🧪 **RNA-seq (Mouse)**
 
 - **Dataset:** [GSE246464]
 - **Input:** `filtered_feature_bc_matrix.h5` files from Cell Ranger
 - **Pipeline:** Processed using [shunPykeR](https://github.com/kousaa/shunPykeR) with downstream analysis in Python
 
-### 🧬 **ATAC-seq (Mouse)**
+### 🐭🧬 **ATAC-seq (Mouse)**
 
 - **Dataset:** [GSE246464]
 - **Pipeline:** [ArchR](https://www.archrproject.com/)
@@ -34,12 +34,12 @@ We integrated and analyzed multiple datasets to profile hematopoietic stem cells
   - Dimensionality reduction and clustering
   - Peak calling, gene scoring, and motif enrichment
 
-### 🧫 **CITE-seq (Mouse LSKs)**
+### 🐭🎯 **CITE-seq (Mouse LSKs)**
 
 - **Dataset:** [GSE243197](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE243197)
 - **Pipeline:** Processed using `Scanpy` and/or `Seurat`
 
-### 🧍‍♂️🧍‍♀️ **Human Bone Marrow (Young vs. Old)**
+### 🧍‍♂🧍‍♀️🎯 **Human Bone Marrow (Young vs. Old)**
 
 - **Dataset:** [OSF Archive](https://osf.io/vdf42/)
 
@@ -71,7 +71,7 @@ This repository includes all scripts and notebooks needed to recreate key figure
 - Motif enrichment and peak accessibility analyses
 - Aging comparisons (mouse and human)
 
-💡 **To reproduce figures**, use the included Jupyter notebooks. Ensure you have the correct Python/R environments set up. 
+💡 **To reproduce figures**, use the included Jupyter notebooks. Compatible Python/R environments with all required packages are provided to ensure proper execution.
 
 ---
 ## 📜 **Citation**
