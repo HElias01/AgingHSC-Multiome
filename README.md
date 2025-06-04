@@ -47,9 +47,9 @@ We integrated and analyzed multiple datasets to profile hematopoietic stem cells
 
 ## 📁 **Repository Structure**
 
-- **Notebooks for RNA analysis**: 060125_NCOMM_RNA_Analysis_Final.ipynb; 060125_NCOMM_MAST and MiloR analysis_Final.ipynb
-- **Notebook for ATAC analysis**: 060125_NCOMM_ArchR_Anndata_Final.ipynb; 060125_NCOMM_ATAC_ArchR_Final.ipynb
-- **Notebook for CITE-seq analysis**: 060125_NCOMM_Sommarin_Analysis_Final.ipynb; 060125_NCOMM_GSE243197_Final.ipynb
+- **Notebooks for RNA analysis**: Notebook for RNA_Analysis.ipynb; Notebook for MAST and MiloR analysis.ipynb
+- **Notebook for ATAC analysis**: ArchR_Notebook_Mouse_ATAC.ipynb; Anndata_Notebook_Mouse_ATAC.ipynb
+- **Notebook for CITE-seq analysis**: Notebook_Human_CITEseq.ipynb; Notebook_Mouse_CITEseq.ipynb
 
 
 ---
