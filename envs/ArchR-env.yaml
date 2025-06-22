@@ -1,4 +1,4 @@
-name: /Users/eliash/opt/anaconda3/envs/r-tutorial
+name: ArchR-env
 channels:
   - bioconda
   - conda-forge
