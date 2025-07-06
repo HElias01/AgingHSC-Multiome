@@ -1,4 +1,4 @@
-# 📘 **RNA, ATAC & CITE-seq Analysis for https://www.biorxiv.org/content/10.1101/2024.06.06.597775v2**
+# 📘 **RNA, ATAC & CITE-seq Analysis for Kitlo hematopoietic stem cells exhibit distinct lymphoid-primed chromatin landscapes that enhance thymic reconstitution https://www.nature.com/articles/s41467-025-61125-1**
 
 This repository contains Jupyter notebooks and reproducible scripts used to generate figures for our manuscript. 
 The study incorporates single-cell RNA-seq, ATAC-seq, and CITE-seq data from **mouse** and **human bone marrow**, highlighting distinct chromatin and epigenetic states during hematopoietic aging which dictate multilineage potential.
